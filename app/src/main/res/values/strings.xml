@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Guess the Celebrity</string>
+    <string name="basic_choice">Not a Celebrity</string>
 </resources>
